@@ -1,0 +1,27 @@
+_repo: Fifty-Salads_24542
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murrey, Thomas J. (Thomas Jefferson)
+    alias: Murrey, Thomas Jefferson
+    gutenberg_agent_id: '26313'
+    url: http://www.gutenberg.org/2009/agents/26313
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2008-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Salads'
+- !lcc 'TX'
+- !lcsh 'Cooking'
+title: Fifty Salads
+url: http://www.gutenberg.org/ebooks/24542
